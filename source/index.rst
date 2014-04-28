@@ -9,7 +9,7 @@ Linux命令参考
 命令分类：
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    archive/index
    date/index
