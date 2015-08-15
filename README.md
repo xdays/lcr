@@ -3,4 +3,4 @@ lcr
 
 Linux Command Reference
 
-[Blog](http://www.xdays.info)
+[Blog](http://www.xdays.me)

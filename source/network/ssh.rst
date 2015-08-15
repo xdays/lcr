@@ -29,6 +29,10 @@ ssh客户端
 示例
 ^^^^
 
+转发本地ssh-agent::
+
+    ssh -A root@remote
+
 翻墙::
 
     ssh -NC -D localhost:8086 root@remote
