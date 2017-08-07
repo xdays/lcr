@@ -1,6 +1,10 @@
 lcr
 ===
 
-Linux Command Reference
+[Linux Command Reference](http://lcr.xdays.me)
 
-[Blog](http://www.xdays.me)
+
+status
+===
+
+All commands in this reference and their status can be tracked from the [Xmind Mindmap](./lcr.xmind)
